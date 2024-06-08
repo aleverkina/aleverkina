@@ -8,5 +8,5 @@ Yandex Метрика, GIT, Power BI, VS Code, Jira, Linux
 Знакома с Airflow, PySpark, Hadoop, Superset, Data Science методы
 English: B1
 
-[![Telegram]](https://t.me/anastasia_leverkina)
-[![Stepik]](https://stepik.org/users/363829105/profile)
+[Telegram](https://t.me/anastasia_leverkina)
+[Stepik](https://stepik.org/users/363829105/profile)
